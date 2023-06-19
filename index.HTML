@@ -10,25 +10,50 @@
             display: inline-block;
         }
 
+        body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+        }
+
+        .title {
+            text-align: center;
+            color: #228B22;
+            padding: 20px 0;
+            border: black 1px solid;
+            border-radius: 10px;
+            width:50%;
+            margin: auto;
+            background-color: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
         .employee-card {
-            margin: 10px;
-            width: 200px;
             display: inline-block;
+            text-align: center;
+            margin: 10px;
+            width: 100%;
+            max-width: 200px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: 15px;
         }
 
         .employee-photo {
-            width: 150px;
-            height: 150px;
+            width: 100%;
+            height: auto;
             border-radius: 50%;
             object-fit: cover;
+            margin-bottom: 10px;
         }
 
         .employee-name {
-            margin-top: 10px;
+            color: #228B22;
             font-weight: bold;
         }
 
         .employee-village {
+            color: #555;
             margin-top: 5px;
             font-style: italic;
         }
@@ -36,90 +61,92 @@
             margin-top: 5px;
             font-weight: 900;
         }
+
+  
     </style>
 </head>
 <body>
-    <h1>Trombinoscope - Groupement d'Employeurs</h1>
-    <h2>Chef d'équipes</h2>
+    <h1 class='title'>Trombinoscope - Groupement d'Employeurs</h1>
+    <h1>Chef d'équipes</h1>
     <div class="employee-card">
         <img class="employee-photo" src="photo.png" alt="">
         <div class="employee-name">Christelle Afflard</div>
-        <div class="employee-village">Village 1</div>
+        <div class="employee-village">Raillencourt st Olle</div>
         <div class="employee-tel">00 00 00 00 00</div>
         
     </div>
 
     <div class="employee-card">
         <img class="employee-photo" src="photo.png" alt="">
-        <div class="employee-name">Prénom Nom 2</div>
-        <div class="employee-village">Village 2</div>
+        <div class="employee-name">Vincent Carré</div>
+        <div class="employee-village">Gouzeaucourt</div>
         <div class="employee-tel">00 00 00 00 00</div>
 
     </div>
 
     <div class="employee-card">
         <img class="employee-photo" src="photo.png" alt="">
-        <div class="employee-name">Prénom Nom 2</div>
-        <div class="employee-village">Village 2</div>
+        <div class="employee-name">Chloé Marchand</div>
+        <div class="employee-village">Neuville Saint Rémy</div>
         <div class="employee-tel">00 00 00 00 00</div>
 
     </div>
 
     <div class="employee-card">
         <img class="employee-photo" src="photo.png" alt="">
-        <div class="employee-name">Prénom Nom 2</div>
-        <div class="employee-village">Village 2</div>
+        <div class="employee-name">Anthony Prouveur</div>
+        <div class="employee-village">Villers Outreaux</div>
         <div class="employee-tel">00 00 00 00 00</div>
 
     </div>
 
 
-    <h2> Tuteurs</h2>
+    <h1> Tuteurs</h1>
 
     <div class="employee-card">
         <img class="employee-photo" src="photo.png" alt="">
-        <div class="employee-name">Prénom Nom 2</div>
-        <div class="employee-village">Village 2</div>
-        <div class="employee-tel">00 00 00 00 00</div>
-
-    </div>
-
-    <div class="employee-card">
-        <img class="employee-photo" src="photo.png" alt="">
-        <div class="employee-name">Prénom Nom 2</div>
-        <div class="employee-village">Village 2</div>
+        <div class="employee-name">Aurelien Deleberghe </div>
+        <div class="employee-village">Awoingt</div>
         <div class="employee-tel">00 00 00 00 00</div>
 
     </div>
 
     <div class="employee-card">
         <img class="employee-photo" src="photo.png" alt="">
-        <div class="employee-name">Prénom Nom 2</div>
-        <div class="employee-village">Village 2</div>
+        <div class="employee-name">Mickaël Fievet</div>
+        <div class="employee-village">Cambrai</div>
         <div class="employee-tel">00 00 00 00 00</div>
 
     </div>
 
     <div class="employee-card">
         <img class="employee-photo" src="photo.png" alt="">
-        <div class="employee-name">Prénom Nom 2</div>
-        <div class="employee-village">Village 2</div>
+        <div class="employee-name"> Bertrand Gaillard </div>
+        <div class="employee-village">Banteux</div>
         <div class="employee-tel">00 00 00 00 00</div>
 
     </div>
 
     <div class="employee-card">
         <img class="employee-photo" src="photo.png" alt="">
-        <div class="employee-name">Prénom Nom 2</div>
-        <div class="employee-village">Village 2</div>
+        <div class="employee-name">Aurélie Lecoq</div>
+        <div class="employee-village">Villers Faucon</div>
         <div class="employee-tel">00 00 00 00 00</div>
 
     </div>
 
     <div class="employee-card">
         <img class="employee-photo" src="photo.png" alt="">
-        <div class="employee-name">Prénom Nom 2</div>
-        <div class="employee-village">Village 2</div>
+        <div class="employee-name">Killian Lemay</div>
+        <div class="employee-village">Gouzeaucourt</div>
+        <div class="employee-tel">00 00 00 00 00</div>
+
+    </div>
+
+    <div class="employee-card">
+        <img class="employee-photo" src="photo.png" alt="">
+        <div class="employee-name">Elise Lemaître</div>
+        <div class="employee-village">Cambrai</div>
         <div class="employee-tel">00 00 00 00 00</div>
 
     </div>
