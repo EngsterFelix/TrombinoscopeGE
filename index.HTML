@@ -1,11 +1,49 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Trombinoscope - Groupement d'Employeurs</title>
+    <style>
+        .employee-card {
+            display: inline-block;
+            text-align: center;
+            margin: 10px;
+            width: 200px;
+        }
+
+        .employee-photo {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+
+        .employee-name {
+            margin-top: 10px;
+            font-weight: bold;
+        }
+
+        .employee-village {
+            margin-top: 5px;
+            font-style: italic;
+        }
+    </style>
 </head>
 <body>
-    <h1> Tuteurs</h1>
+    <h1>Trombinoscope - Groupement d'Employeurs</h1>
+
+    <div class="employee-card">
+        <img class="employee-photo" src="photo.png" alt="Photo de l'employé 1">
+        <div class="employee-name">Prénom Nom 1</div>
+        <div class="employee-village">Village 1</div>
+    </div>
+
+    <div class="employee-card">
+        <img class="employee-photo" src="photo.png" alt="Photo de l'employé 2">
+        <div class="employee-name">Prénom Nom 2</div>
+        <div class="employee-village">Village 2</div>
+    </div>
+
+    <!-- Ajoutez les autres employés de la même manière -->
+
 </body>
 </html>
