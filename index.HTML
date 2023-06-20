@@ -196,8 +196,37 @@
 
     </div>
 
+    <div id="seasonal-employees">
+        <h2>-- Saisonniers --</h2>
 
-    <!-- Ajoutez les autres employés de la même manière -->
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+        <script>
+        $(document).ready(function() {
+        // Récupérer les données des employés depuis le fichier JSON
+        $.getJSON("employe.json", function(data) {
+            var employees = data;
+
+            // Parcourir les données des employés et générer le code HTML pour chaque employé
+            for (var i = 0; i < employees.length; i++) {
+            var employee = employees[i];
+            var employeeCard = `
+                <div class="employee-card">
+                <img class="employee-photo" src="${employee.photo}" alt="Photo de ${employee.nom} ${employee.prenom}">
+                <div class="employee-name">${employee.prenom} ${employee.nom}</div>
+                <div class="employee-village">${employee.village}</div>
+                </div>
+            `;
+
+            // Ajouter le code HTML de la carte d'employé à la section correspondante
+            $("#seasonal-employees").append(employeeCard);
+            }
+        });
+        });
+        </script>
+    </div>
+    
+
 
 </body>
 </html>
