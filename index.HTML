@@ -202,13 +202,20 @@
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
         <script>
+<<<<<<< HEAD
          $(document).ready(function() {
         // Récupérer les données des employés depuis le fichier JSON
         $.getJSON("employe.json", function(data) {
+=======
+        $(document).ready(function() {
+        // Récupérer les données des employés depuis le fichier JSON
+        $.getJSON("https://raw.githubusercontent.com/EngsterFelix/TrombinoscopeGE/main/employe.json", function(data) {
+>>>>>>> d198c68ee03934cc6297009be54188513cb38e88
             var employees = data;
 
             // Parcourir les données des employés et générer le code HTML pour chaque employé
             for (var i = 0; i < employees.length; i++) {
+<<<<<<< HEAD
                 var employee = employees[i];
                 var employeeCard = `
                     <div class="employee-card">
@@ -225,10 +232,31 @@
         });
     });
 
+=======
+            var employee = employees[i];
+            var employeeCard = `
+                <div class="employee-card">
+                <img class="employee-photo" src="${employee.photo}" alt="Photo de ${employee.nom} ${employee.prenom}">
+                <div class="employee-name">${employee.prenom} ${employee.nom}</div>
+                <div class="employee-village">${employee.village}</div>
+                <div class="employee-tel">${employee.telephone}</div>
+                </div>
+            `;
+
+            // Ajouter le code HTML de la carte d'employé à la section correspondante
+            $("#seasonal-employees").append(employeeCard);
+            }
+        });
+        });
+>>>>>>> d198c68ee03934cc6297009be54188513cb38e88
         </script>
     </div>
     
 
 
 </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> d198c68ee03934cc6297009be54188513cb38e88
