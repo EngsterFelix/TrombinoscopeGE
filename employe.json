@@ -3,27 +3,32 @@
       "photo": "./photo/christelle.jpg",
       "nom": "Nom 1",
       "prenom": "Prénom 1",
-      "village": "Village 1"
+      "village": "Village 1",
+      "telephone" : "00 00 00 00 00"
     },
     {
       "photo": "./photo/christelle.jpg",
       "nom": "Nom 2",
       "prenom": "Prénom 2",
-      "village": "Village 2"
+      "village": "Village 2",
+      "telephone" : "00 00 00 00 00"
+      
     }
     ,
     {
       "photo": "./photo/christelle.jpg",
       "nom": "Nom 2",
       "prenom": "Prénom 2",
-      "village": "Village 2"
+      "village": "Village 2",
+      "telephone" : "00 00 00 00 00"
     }
     ,
     {
       "photo": "./photo/christelle.jpg",
       "nom": "Nom 2",
       "prenom": "Prénom 2",
-      "village": "Village 2"
+      "village": "Village 2",
+      "telephone" : "00 00 00 00 00"
     }
     
  
