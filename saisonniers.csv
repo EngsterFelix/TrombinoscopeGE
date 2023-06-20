@@ -1,76 +1,76 @@
-nom;prenom;village;telephone
-;;;
-ARDHUIN ;Mathis ;gouzeaucourt ;0783469797
-bERNIER ;Corentin;Epehy;0609417113
-Bezet ;néo;Villers-Guislain;0789068468
-Bray ;Sébastien ;Villers -outreaux ;0750368571
-Canfin; Kevin;Sorel ;0649822919
-Chabrut  ;Christian;Cambrai ;0637413330
-Coupé  ;Emmanuelle;Heudicourt ;0698068144
-Deleberghe  ;Aurélien;Awoingt;0785996092
-evrard ;christelle;Villers-Faucon ;0669116710
-fievet;mickael;Cambrai ;0623971139
-Gaillard ;Bertrand;Banteux;786914651
-gourdain ;magali;gouzeaucourt;0656827837
-housseman ;yannick;gouzeaucourt;0656827837
-kaiser  ;Christophe;Etricourt-manancourt;0698267505
-Kruszyna  ;Emmanuelle;Maretz ;0778331997
-Lavalard ;Manon;Villers-Outréaux ;0614878146
-Lecocq ;marine;Villers guislain ;0672805469
-Lecoq  ;aurelie;Villers-Faucon ;0671461430
-Lemaitre ;elise;Cambrai;0786405196
-Lemay ;Kyllian;Gouzeaucourt;0670594253
-LOOTEN  ;robin;Fins;0667542429
-SERGENT ;Emilie;Fontaine notre Dame;0781772710
-Sockeel ;jean noel;Gouzeaucourt;0772779222
-Thomas ;WERQUIN;Rumilly-en-Cambrésis;782920320
-Lemaire ;Axel;Escaudoeuvres;0685697461
-Petit  ;Antoine;Gouzeaucourt ;0771767332
-Dieux  ;Nathan;Rumilly-en-Cambrésis ;0685446985
-Gaulupeau ;Marion;Cambrai;0787574410
-Cottret ;Valentin;GOUZEAUCOURT ;0642404639
-Delaporte ;Louise;Honnecourt-sur-Escaut;0785320803
-Jamin ;Tom;La chapelle sur erdre ;0657570053
-LAVALARD  ;LUDOVIC;Gouzeaucourt ;0620519919
-Lecoq ;enzo;Villers faucon ;0787913004
-forte  ;cassandre;gonnelieu;0650084859
-Macho ;Nathalie;Gouzeaucourt ;0983589202
-PARIS  ;Aurélie;Villers faucon ;0784285444
-Quignon  ;Gaëtan;Cambrai;0629641798
-Guiraud ;Guillaume;Bantouzelle;0638506946
-Carpentier ;yohann;Heudicourt ;0658798176
-Lagerbe  ;Migouel;Heudicourt ;0603879524
-Ducamp ;Lucas;Gouzeaucourt;0632994628
-Wanecque ;Ilario;Honnecourt sur l'Escaut ;0780569420
-Guidez ;Pierre;Marcoing / Villers-Plouich;0624483431
-Van Hullebusch ;Tanguy;Masnières;0652244227
-Dumur  ;loic;Grougis;0765685389
-Richard ;Axel;Gouzeaucourt;0642207432
-Fievet  ;patrice;Cambrai ;0645779867
-Lemaire  ;robin;Villers GUISLAIN ;0767093788
-Lévêque ;Alice;Beaurevoir;0642633340
-Lewandowski ;Loïs;Cambrai ;0789675627
-Pietrzak  ;Quentin;Masnieres ;0641559628
-SENECHAL ;MAEL;Ribécourt-la-Tour;0619263880
-Deguisne ;shannon;Etricourt-Manancourt ;0768388413
-Beaussart  ;Antoine;Masnieres ;0680104126
-BLA ;AXEL;Séranvillers-Forenvile ;0684258670
-BLONDEL ;Mathis;Metz-en-couture ;0659502348
-Lejeune ;francis;Cambrai;0667286015
-Flechelle ;Axel;Roisel;0634600354
-Souplet ;Pauline;Esnes;0783163179
-Sauvage ;antonin;Le ronssoy;0768963734
-DUPONT ;EMILIEN;Auxi le chateau;0641476764
-Engster ;Félix;Gouzeaucourt;0632650736
-LEMAIRE  ;CLÉMENT;Villers-Guislain ;0767703320
-bilteryst ;apolline;gouzeaucourt;0641214874
-HOLIN ;LAURA;BOUCHAIN;0622584479
-Largilliere  ;Candice;Maretz;0749371529
-Wanecque  ;Méliana;Maretz ;0681110765
-De Almeida  ;Amélie;Villers-Plouich;767596389
-Durondeau-Haguet ;Loucka;Cambrai;0602162778
-Hénoque  ;Justine;Gouzeaucourt 59 231;0782373302
-Lemoine ;Mathis;Gouzeaucourt;0637536379
-Dieux ;Rohan;Cambrai;0688884113
-Noureux ;enzo;Villers guislain;078359173
-Ducamp ;Guillaume;Gouzeaucourt;0633888040
+nom;prenom;village;telephone;photo
+;;;;
+ARDHUIN ;Mathis ;gouzeaucourt ;0783469797;./photo/photo.png
+bERNIER ;Corentin;Epehy;0609417113;./photo/photo.png
+Bezet ;nï¿½o;Villers-Guislain;0789068468;./photo/photo.png
+Bray ;Sï¿½bastien ;Villers -outreaux ;0750368571;
+Canfin; Kevin;Sorel ;0649822919;
+Chabrut  ;Christian;Cambrai ;0637413330;
+Coupï¿½  ;Emmanuelle;Heudicourt ;0698068144;
+Deleberghe  ;Aurï¿½lien;Awoingt;0785996092;
+evrard ;christelle;Villers-Faucon ;0669116710;
+fievet;mickael;Cambrai ;0623971139;
+Gaillard ;Bertrand;Banteux;786914651;
+gourdain ;magali;gouzeaucourt;0656827837;
+housseman ;yannick;gouzeaucourt;0656827837;
+kaiser  ;Christophe;Etricourt-manancourt;0698267505;
+Kruszyna  ;Emmanuelle;Maretz ;0778331997;
+Lavalard ;Manon;Villers-Outrï¿½aux ;0614878146;
+Lecocq ;marine;Villers guislain ;0672805469;
+Lecoq  ;aurelie;Villers-Faucon ;0671461430;
+Lemaitre ;elise;Cambrai;0786405196;
+Lemay ;Kyllian;Gouzeaucourt;0670594253;
+LOOTEN  ;robin;Fins;0667542429;
+SERGENT ;Emilie;Fontaine notre Dame;0781772710;
+Sockeel ;jean noel;Gouzeaucourt;0772779222;
+Thomas ;WERQUIN;Rumilly-en-Cambrï¿½sis;782920320;
+Lemaire ;Axel;Escaudoeuvres;0685697461;
+Petit  ;Antoine;Gouzeaucourt ;0771767332;
+Dieux  ;Nathan;Rumilly-en-Cambrï¿½sis ;0685446985;
+Gaulupeau ;Marion;Cambrai;0787574410;
+Cottret ;Valentin;GOUZEAUCOURT ;0642404639;
+Delaporte ;Louise;Honnecourt-sur-Escaut;0785320803;
+Jamin ;Tom;La chapelle sur erdre ;0657570053;
+LAVALARD  ;LUDOVIC;Gouzeaucourt ;0620519919;
+Lecoq ;enzo;Villers faucon ;0787913004;
+forte  ;cassandre;gonnelieu;0650084859;
+Macho ;Nathalie;Gouzeaucourt ;0983589202;
+PARIS  ;Aurï¿½lie;Villers faucon ;0784285444;
+Quignon  ;Gaï¿½tan;Cambrai;0629641798;
+Guiraud ;Guillaume;Bantouzelle;0638506946;
+Carpentier ;yohann;Heudicourt ;0658798176;
+Lagerbe  ;Migouel;Heudicourt ;0603879524;
+Ducamp ;Lucas;Gouzeaucourt;0632994628;
+Wanecque ;Ilario;Honnecourt sur l'Escaut ;0780569420;
+Guidez ;Pierre;Marcoing / Villers-Plouich;0624483431;
+Van Hullebusch ;Tanguy;Masniï¿½res;0652244227;
+Dumur  ;loic;Grougis;0765685389;
+Richard ;Axel;Gouzeaucourt;0642207432;
+Fievet  ;patrice;Cambrai ;0645779867;
+Lemaire  ;robin;Villers GUISLAIN ;0767093788;
+Lï¿½vï¿½que ;Alice;Beaurevoir;0642633340;
+Lewandowski ;Loï¿½s;Cambrai ;0789675627;
+Pietrzak  ;Quentin;Masnieres ;0641559628;
+SENECHAL ;MAEL;Ribï¿½court-la-Tour;0619263880;
+Deguisne ;shannon;Etricourt-Manancourt ;0768388413;
+Beaussart  ;Antoine;Masnieres ;0680104126;
+BLA ;AXEL;Sï¿½ranvillers-Forenvile ;0684258670;
+BLONDEL ;Mathis;Metz-en-couture ;0659502348;
+Lejeune ;francis;Cambrai;0667286015;
+Flechelle ;Axel;Roisel;0634600354;
+Souplet ;Pauline;Esnes;0783163179;
+Sauvage ;antonin;Le ronssoy;0768963734;
+DUPONT ;EMILIEN;Auxi le chateau;0641476764;
+Engster ;Fï¿½lix;Gouzeaucourt;0632650736;
+LEMAIRE  ;CLï¿½MENT;Villers-Guislain ;0767703320;
+bilteryst ;apolline;gouzeaucourt;0641214874;
+HOLIN ;LAURA;BOUCHAIN;0622584479;
+Largilliere  ;Candice;Maretz;0749371529;
+Wanecque  ;Mï¿½liana;Maretz ;0681110765;
+De Almeida  ;Amï¿½lie;Villers-Plouich;767596389;
+Durondeau-Haguet ;Loucka;Cambrai;0602162778;
+Hï¿½noque  ;Justine;Gouzeaucourt 59 231;0782373302;
+Lemoine ;Mathis;Gouzeaucourt;0637536379;
+Dieux ;Rohan;Cambrai;0688884113;
+Noureux ;enzo;Villers guislain;078359173;
+Ducamp ;Guillaume;Gouzeaucourt;0633888040;
