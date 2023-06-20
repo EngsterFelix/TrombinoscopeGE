@@ -30,6 +30,15 @@
     "village": "Village 2",
     "telephone" : "00 00 00 00 00"
   }
+
+    ,
+  {
+    "photo": "./photo/christelle.jpg",
+    "nom": "Saisoniers ",
+    "prenom": "orenom 2",
+    "village": "Village 2",
+    "telephone" : "00 00 00 00 00"
+  }
   
 
 ]
