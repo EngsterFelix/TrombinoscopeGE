@@ -161,13 +161,7 @@
         "telephone": "785320803",
         "photo": "./photo/photo.png"
     },
-    {
-        "nom": "Jamin ",
-        "prenom": "Tom",
-        "village": "La chapelle sur erdre ",
-        "telephone": "657570053",
-        "photo": "./photo/photo.png"
-    },
+
     {
         "nom": "Lecoq ",
         "prenom": "enzo",
@@ -246,7 +240,7 @@
         "photo": "./photo/photo.png"
     },
     {
-        "nom": "L\u00e9v\u00eaque ",
+        "nom": "Lévêque ",
         "prenom": "Alice",
         "village": "Beaurevoir",
         "telephone": "642633340",
@@ -350,13 +344,7 @@
         "telephone": "641214874",
         "photo": "./photo/photo.png"
     },
-    {
-        "nom": "HOLIN ",
-        "prenom": "LAURA",
-        "village": "BOUCHAIN",
-        "telephone": "622584479",
-        "photo": "./photo/photo.png"
-    },
+
     {
         "nom": "Largilliere  ",
         "prenom": "Candice",
