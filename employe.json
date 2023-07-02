@@ -70,13 +70,7 @@
         "telephone": "667542429",
         "photo": "./photo/robinL2.png"
     },
-    {
-        "nom": "SERGENT ",
-        "prenom": "Emilie",
-        "village": "Fontaine notre Dame",
-        "telephone": "781772710",
-        "photo": "./photo/emilieS.png"
-    },
+
     {
         "nom": "Sockeel ",
         "prenom": "jean noel",
@@ -105,13 +99,7 @@
         "telephone": "771767332",
         "photo": "./photo/antoineP.png"
     },
-    {
-        "nom": "Dieux  ",
-        "prenom": "Nathan",
-        "village": "Rumilly-en-Cambrésis ",
-        "telephone": "685446985",
-        "photo": "./photo/nathanD.png"
-    },
+
     {
         "nom": "Gaulupeau ",
         "prenom": "Marion",
