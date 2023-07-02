@@ -5,147 +5,119 @@
         "prenom": "Mathis ",
         "village": "gouzeaucourt ",
         "telephone": "783469797",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/mathisC.png"
     },
     {
         "nom": "bERNIER ",
         "prenom": "Corentin",
         "village": "Epehy",
         "telephone": "609417113",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/corentinB.png"
     },
     {
         "nom": "Bezet ",
-        "prenom": "n\u00e9o",
+        "prenom": "neo",
         "village": "Villers-Guislain",
         "telephone": "789068468",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/neoB.png"
     },
     {
         "nom": "Bray ",
-        "prenom": "S\u00e9bastien ",
+        "prenom": "Sébastien ",
         "village": "Villers -outreaux ",
         "telephone": "750368571",
-        "photo": "./photo/photo.png"
-    },
-    {
-        "nom": "Deleberghe  ",
-        "prenom": "Aur\u00e9lien",
-        "village": "Awoingt",
-        "telephone": "785996092",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/sebastinB.png"
     },
     {
         "nom": "evrard ",
         "prenom": "christelle",
         "village": "Villers-Faucon ",
         "telephone": "669116710",
-        "photo": "./photo/photo.png"
-    },
-    {
-        "nom": "fievet",
-        "prenom": "mickael",
-        "village": "Cambrai ",
-        "telephone": "623971139",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/christelleE.png"
     },
     {
         "nom": "gourdain ",
         "prenom": "magali",
         "village": "gouzeaucourt",
         "telephone": "656827837",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/magaliG.png"
     },
     {
         "nom": "housseman ",
         "prenom": "yannick",
         "village": "gouzeaucourt",
         "telephone": "656827837",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/yannickH.png"
     },
     {
         "nom": "kaiser  ",
         "prenom": "Christophe",
         "village": "Etricourt-manancourt",
         "telephone": "698267505",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/christopheK.png"
     },
     {
         "nom": "Kruszyna  ",
         "prenom": "Emmanuelle",
         "village": "Maretz ",
         "telephone": "778331997",
-        "photo": "./photo/photo.png"
-    },
-    {
-        "nom": "Lemaitre ",
-        "prenom": "elise",
-        "village": "Cambrai",
-        "telephone": "786405196",
-        "photo": "./photo/photo.png"
-    },
-    {
-        "nom": "Lemay ",
-        "prenom": "Kyllian",
-        "village": "Gouzeaucourt",
-        "telephone": "670594253",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/emmanuelleK.png"
     },
     {
         "nom": "LOOTEN  ",
         "prenom": "robin",
         "village": "Fins",
         "telephone": "667542429",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/robinL.png"
     },
     {
         "nom": "SERGENT ",
         "prenom": "Emilie",
         "village": "Fontaine notre Dame",
         "telephone": "781772710",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/emilieS.png"
     },
     {
         "nom": "Sockeel ",
         "prenom": "jean noel",
         "village": "Gouzeaucourt",
         "telephone": "772779222",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/jeannoelS.png"
     },
     {
         "nom": "Thomas ",
         "prenom": "WERQUIN",
-        "village": "Rumilly-en-Cambr\u00e9sis",
+        "village": "Rumilly-en-Cambrésis",
         "telephone": "782920320",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/thomasW.png"
     },
     {
         "nom": "Lemaire ",
         "prenom": "Axel",
         "village": "Escaudoeuvres",
         "telephone": "685697461",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/axelL.png"
     },
     {
         "nom": "Petit  ",
         "prenom": "Antoine",
         "village": "Gouzeaucourt ",
         "telephone": "771767332",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/antoineP.png"
     },
     {
         "nom": "Dieux  ",
         "prenom": "Nathan",
-        "village": "Rumilly-en-Cambr\u00e9sis ",
+        "village": "Rumilly-en-Cambrésis ",
         "telephone": "685446985",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/nathanD.png"
     },
     {
         "nom": "Gaulupeau ",
         "prenom": "Marion",
         "village": "Cambrai",
         "telephone": "787574410",
-        "photo": "./photo/photo.png"
+        "photo": "./photo/marionG.png"
     },
     {
         "nom": "Cottret ",
